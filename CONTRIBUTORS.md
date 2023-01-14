@@ -368,7 +368,7 @@
 
 -[@EdouardVW](https://github.com/EdouardVW)
 
--[Vaishnavi Swarnoj](https://github.com/Vaishu03)
+-[@Vaishu03](https://github.com/Vaishu03)
 
 -[@MartinBurton](https://github.com/MartinBurton)
 
