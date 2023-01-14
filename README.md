@@ -74,7 +74,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 10. Go to the GitHub page of _your fork_, and make a pull request:
 
-    ![pull request image](https://camo.githubusercontent.com/ca3b1cefece5f3b9b3435020e6a357ca024cda5bd2b1e140a15170fcd1ec5381/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f526561646d652f636f6d706172652d616e642d70756c6c2e706e67)
+    ![pull request image](https://www.dummies.com/wp-content/uploads/github-repository-home-page.jpg)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
